@@ -27,6 +27,7 @@ setup(
             'apriltag_publisher = apriltag_perception.apriltag_publisher:main',
             'apriltag_subscriber = apriltag_perception.apriltag_subscriber:main',
             'pose_publisher = apriltag_perception.pose_publisher:main',
+            'gesture_collector = apriltag_perception.gesture_collector:main',
         ],
     },
 )

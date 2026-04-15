@@ -1,0 +1,52 @@
+[1.239s] Invoking command in '/home/yoheen/Robotic-Space-Hand-Algorithm/robotics_ws/src/apriltag_perception': PYTHONPATH=/home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/apriltag_perception build --build-base /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build install --record /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/install.log --single-version-externally-managed install_data
+[1.479s] running egg_info
+[1.479s] creating ../../../build/apriltag_perception/apriltag_perception.egg-info
+[1.505s] writing ../../../build/apriltag_perception/apriltag_perception.egg-info/PKG-INFO
+[1.505s] writing dependency_links to ../../../build/apriltag_perception/apriltag_perception.egg-info/dependency_links.txt
+[1.506s] writing entry points to ../../../build/apriltag_perception/apriltag_perception.egg-info/entry_points.txt
+[1.506s] writing requirements to ../../../build/apriltag_perception/apriltag_perception.egg-info/requires.txt
+[1.506s] writing top-level names to ../../../build/apriltag_perception/apriltag_perception.egg-info/top_level.txt
+[1.506s] writing manifest file '../../../build/apriltag_perception/apriltag_perception.egg-info/SOURCES.txt'
+[1.541s] reading manifest file '../../../build/apriltag_perception/apriltag_perception.egg-info/SOURCES.txt'
+[1.541s] writing manifest file '../../../build/apriltag_perception/apriltag_perception.egg-info/SOURCES.txt'
+[1.542s] running build
+[1.542s] running build_py
+[1.542s] creating /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build
+[1.543s] creating /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib
+[1.544s] creating /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception
+[1.545s] copying apriltag_perception/gesture_collector.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception
+[1.545s] copying apriltag_perception/__init__.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception
+[1.545s] copying apriltag_perception/apriltag_publisher.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception
+[1.546s] copying apriltag_perception/pose_publisher.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception
+[1.547s] copying apriltag_perception/pose_detect.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception
+[1.548s] copying apriltag_perception/apriltag_subscriber.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception
+[1.548s] running install
+[1.554s] running install_lib
+[1.571s] creating /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception
+[1.572s] copying /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception/gesture_collector.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception
+[1.572s] copying /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception/__init__.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception
+[1.572s] copying /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception/apriltag_publisher.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception
+[1.573s] copying /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception/pose_publisher.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception
+[1.573s] copying /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception/pose_detect.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception
+[1.573s] copying /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build/lib/apriltag_perception/apriltag_subscriber.py -> /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception
+[1.573s] byte-compiling /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception/gesture_collector.py to gesture_collector.cpython-312.pyc
+[1.576s] byte-compiling /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception/__init__.py to __init__.cpython-312.pyc
+[1.576s] byte-compiling /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception/apriltag_publisher.py to apriltag_publisher.cpython-312.pyc
+[1.577s] byte-compiling /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception/pose_publisher.py to pose_publisher.cpython-312.pyc
+[1.579s] byte-compiling /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception/pose_detect.py to pose_detect.cpython-312.pyc
+[1.580s] byte-compiling /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception/apriltag_subscriber.py to apriltag_subscriber.cpython-312.pyc
+[1.580s] running install_data
+[1.581s] creating /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/share/ament_index
+[1.581s] creating /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/share/ament_index/resource_index
+[1.582s] creating /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/share/ament_index/resource_index/packages
+[1.583s] copying resource/apriltag_perception -> /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/share/ament_index/resource_index/packages
+[1.583s] copying package.xml -> /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/share/apriltag_perception
+[1.583s] running install_egg_info
+[1.602s] Copying ../../../build/apriltag_perception/apriltag_perception.egg-info to /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages/apriltag_perception-0.0.0-py3.12.egg-info
+[1.604s] running install_scripts
+[1.718s] Installing apriltag_publisher script to /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/apriltag_perception
+[1.720s] Installing apriltag_subscriber script to /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/apriltag_perception
+[1.720s] Installing gesture_collector script to /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/apriltag_perception
+[1.720s] Installing pose_publisher script to /home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/apriltag_perception
+[1.720s] writing list of installed files to '/home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/install.log'
+[1.745s] Invoked command in '/home/yoheen/Robotic-Space-Hand-Algorithm/robotics_ws/src/apriltag_perception' returned '0': PYTHONPATH=/home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yoheen/Robotic-Space-Hand-Algorithm/install/apriltag_perception/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/apriltag_perception build --build-base /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/build install --record /home/yoheen/Robotic-Space-Hand-Algorithm/build/apriltag_perception/install.log --single-version-externally-managed install_data
